@@ -10,4 +10,4 @@ The Data was pulled from the PDF report, added into Excel, formatted into tables
 ### CAFC 2024 Report (Dollar Loss)
 ![image alt](https://github.com/jessicapowerDA/CAFC-Report-2024-Dashboards/blob/ce0a3246e8ef9354fdeec029b4d52b1cc51b55f2/CAFCDollarLoss.png)
 ### CAFC 2024 Report (# of Reports)
-
+![image alt](https://github.com/jessicapowerDA/CAFC-Report-2024-Dashboards/blob/808e9eeba48cc36e710722ce1838d699f95c3be1/CAFC%23OfReports.png)
