@@ -12,4 +12,4 @@ The Data was pulled from the PDF report, added into Excel, formatted into tables
 [Power BI Dashboard (Dollar Loss)](https://github.com/jessicapowerDA/CAFC-Report-2024-Dashboards/blob/2136ab1e61101bec553b3f7038c9663a4602f9ab/CAFCDollarLoss.pbix)
 ### CAFC 2024 Report (# of Reports)
 ![image alt](https://github.com/jessicapowerDA/CAFC-Report-2024-Dashboards/blob/808e9eeba48cc36e710722ce1838d699f95c3be1/CAFC%23OfReports.png)
-[link]
+[Power BI Dashboard (# of Reports)](https://github.com/jessicapowerDA/CAFC-Report-2024-Dashboards/blob/2dea4e627b5378af3afd45c0cea47375c82b6b7e/CAFC%23OfReports.pbix)
