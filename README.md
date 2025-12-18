@@ -8,6 +8,6 @@ The Data was pulled from the PDF report, added into Excel, formatted into tables
 ## Preview of the two Dashboards:
 
 ### CAFC 2024 Report (Dollar Loss)
-
+![image alt](https://github.com/jessicapowerDA/CAFC-Report-2024-Dashboards/blob/ce0a3246e8ef9354fdeec029b4d52b1cc51b55f2/CAFCDollarLoss.png)
 ### CAFC 2024 Report (# of Reports)
 
