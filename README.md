@@ -1,9 +1,13 @@
-The Canadian Anti-Fraud Centre Report 2024
-All data is from The CAFC website under annual reports for 2024
-Data was pulled from the report, added to Excel, then exported to Power BI for visualization
-Screenshot of the 2 Dashboards:
+# The Canadian Anti-Fraud Centre Report 2024
 
-CAFC 2024 Report (Dollar Loss)
+## Dataset 
+The data used in these dashboards are from The Government of Canada website, under The Canadian Anti-Fraud Centre's Annual Report for 2024.  [https://open.canada.ca/data/en/dataset/69c68f22-8a2a-43d1-8f4e-4017e3ffebba/resource/1ffc4a5e-e41b-48c7-929e-633d023ef8dc](URL)
 
-CAFC 2024 Report (# of Reports)
+The Data was pulled from the PDF report, added to Excel into tables, then exported to Power BI for visualization.
+
+## Preview of the two Dashboards:
+
+### CAFC 2024 Report (Dollar Loss)
+
+### CAFC 2024 Report (# of Reports)
 
